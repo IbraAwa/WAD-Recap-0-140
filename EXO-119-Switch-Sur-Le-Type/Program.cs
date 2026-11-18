@@ -36,11 +36,14 @@
 //     L'ordre compte : le cas le plus précis doit passer avant le cas général.
 //
 //  ▶️ POUR LANCER : clic droit sur ce projet > « Définir comme projet de démarrage », puis F5
-//  ✅ CORRECTION : elle te sera donnée plus tard (essaie d'abord tout seul !)
+//  ✅ CORRECTION : dans le fichier Correction.cs (essaie d'abord tout seul !)
 // ===================================================================================
 
 Console.WriteLine("EXO 119 - switch sur le type d'une valeur");
 
 // ↓↓↓ écris ton code en dessous ↓↓↓
+
+// ✅ Correction (dans Correction.cs) — mets cette ligne en commentaire pour tester TON code
+Correction.LancerLaCorrection();
 
 

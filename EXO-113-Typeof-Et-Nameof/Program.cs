@@ -35,11 +35,14 @@
 //     qu'on peut comparer. nameof renvoie le nom écrit dans le code, pas la valeur.
 //
 //  ▶️ POUR LANCER : clic droit sur ce projet > « Définir comme projet de démarrage », puis F5
-//  ✅ CORRECTION : elle te sera donnée plus tard (essaie d'abord tout seul !)
+//  ✅ CORRECTION : dans le fichier Correction.cs (essaie d'abord tout seul !)
 // ===================================================================================
 
 Console.WriteLine("EXO 113 - typeof et nameof (slide 126 n°5)");
 
 // ↓↓↓ écris ton code en dessous ↓↓↓
+
+// ✅ Correction (dans Correction.cs) — mets cette ligne en commentaire pour tester TON code
+Correction.LancerLaCorrection();
 
 

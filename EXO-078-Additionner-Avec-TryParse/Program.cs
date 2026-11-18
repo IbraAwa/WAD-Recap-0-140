@@ -33,11 +33,14 @@
 //     la condition n'est vraie que si les deux sont vrais (le && est expliqué à l'exercice 83).
 //
 //  ▶️ POUR LANCER : clic droit sur ce projet > « Définir comme projet de démarrage », puis F5
-//  ✅ CORRECTION : elle te sera donnée plus tard (essaie d'abord tout seul !)
+//  ✅ CORRECTION : dans le fichier Correction.cs (essaie d'abord tout seul !)
 // ===================================================================================
 
 Console.WriteLine("EXO 078 - Additionner deux nombres avec TryParse (slide 100)");
 
 // ↓↓↓ écris ton code en dessous ↓↓↓
+
+// ✅ Correction (dans Correction.cs) — mets cette ligne en commentaire pour tester TON code
+Correction.LancerLaCorrection();
 
 

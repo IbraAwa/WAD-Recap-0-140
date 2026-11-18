@@ -31,11 +31,14 @@
 //     puis la condition qu'elle doit respecter (le titre de l'exercice montre la forme).
 //
 //  ▶️ POUR LANCER : clic droit sur ce projet > « Définir comme projet de démarrage », puis F5
-//  ✅ CORRECTION : elle te sera donnée plus tard (essaie d'abord tout seul !)
+//  ✅ CORRECTION : dans le fichier Correction.cs (essaie d'abord tout seul !)
 // ===================================================================================
 
 Console.WriteLine("EXO 120 - Tester une propriété : { Length: > 5 }");
 
 // ↓↓↓ écris ton code en dessous ↓↓↓
+
+// ✅ Correction (dans Correction.cs) — mets cette ligne en commentaire pour tester TON code
+Correction.LancerLaCorrection();
 
 

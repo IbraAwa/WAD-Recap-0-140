@@ -28,11 +28,14 @@
 //     (les lignes qui provoquent une erreur doivent être en commentaire)
 //
 //  ▶️ POUR LANCER : clic droit sur ce projet > « Définir comme projet de démarrage », puis F5
-//  ✅ CORRECTION : elle te sera donnée plus tard (essaie d'abord tout seul !)
+//  ✅ CORRECTION : dans le fichier Correction.cs (essaie d'abord tout seul !)
 // ===================================================================================
 
 Console.WriteLine("EXO 076 - Unboxing : ressortir de l'object");
 
 // ↓↓↓ écris ton code en dessous ↓↓↓
+
+// ✅ Correction (dans Correction.cs) — mets cette ligne en commentaire pour tester TON code
+Correction.LancerLaCorrection();
 
 
